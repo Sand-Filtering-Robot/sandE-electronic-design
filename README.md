@@ -3,7 +3,7 @@
 This repository contains all of the files related to SandE's electronic components and the circuit schematic.
 
 ## Dependencies
-{KiCad7}(https://www.kicad.org/download/)
+- [KiCad7](https://www.kicad.org/download/)
 
 ## Get Started
 1. Download the required dependencies
